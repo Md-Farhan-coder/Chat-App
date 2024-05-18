@@ -14,6 +14,10 @@ This is a real-time chat application built with React for the frontend, Node.js 
 - MongoDB installed and running
 - Git installed
 
+## Demo Creditionals
+Phone : 123456768
+Password: 12345678
+
 ## Getting Started
 
 ### Clone the Repository
