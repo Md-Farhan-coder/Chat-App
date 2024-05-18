@@ -32,3 +32,5 @@ In second terminal write
 cd server
 npm start
 ```
+
+Then go to [localhost ](http://localhost:5173/)
