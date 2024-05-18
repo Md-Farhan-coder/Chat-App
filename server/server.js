@@ -21,8 +21,8 @@ const io = socketIo(server, {
 app.use(cors());
 app.use(express.json());
 
-const PORT = process.env.PORT || 7000;
-const URL = process.env.MONGOURL;
+const PORT = 7000;
+const URL = 'mongodb+srv://childkazari:mdfarhan@cluster1.3rllqla.mongodb.net/ChatApp?retryWrites=true&w=majority&appName=Cluster1';
  
 mongoose
 	.connect(URL)
