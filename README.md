@@ -22,6 +22,7 @@ This is a real-time chat application built with React for the frontend, Node.js 
 git clone https://github.com/Md-Farhan-coder/Chat-App.git
 cd real-time-chat-app
 
+###b
 Create two terminal then type
 ```bash
 cd client
