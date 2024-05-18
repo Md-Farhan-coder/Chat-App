@@ -15,7 +15,7 @@ This is a real-time chat application built with React for the frontend, Node.js 
 - Git installed
 
 ## Demo Creditionals
-- Phone : 123456768
+- Phone : 12345678
 - Password: 12345678
 
 ## Getting Started
