@@ -29,11 +29,13 @@ Create
 Create two terminal then type
 ```bash
 cd client
+npm install
 npm run dev
 ```
 In second terminal write 
 ```bash
 cd server
+npm install
 npm start
 ```
 
