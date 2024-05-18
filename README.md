@@ -34,3 +34,6 @@ npm start
 ```
 
 Then go to [localhost ](http://localhost:5173/)
+
+> [!TIP]
+> You can also update mongo db url in  server > server.js file
