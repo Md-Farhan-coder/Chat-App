@@ -19,5 +19,14 @@ This is a real-time chat application built with React for the frontend, Node.js 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/real-time-chat-app.git
+git clone https://github.com/Md-Farhan-coder/Chat-App.git
 cd real-time-chat-app
+
+Create two terminal then type
+```bash
+cd client
+npm run dev
+
+In second terminal write 
+cd server
+npm start
